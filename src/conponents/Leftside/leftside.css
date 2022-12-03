@@ -1,0 +1,15 @@
+.fullpage {
+  background: #ffffff;
+}
+.logo {
+  margin-top: 35px;
+}
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bannerimg {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
